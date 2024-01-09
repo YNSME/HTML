@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #183D3D;
+}
+
+.wrapper{
+    width: 1024px;
+    display: flex;
+    
+    justify-content: space-between;
+    background-color:#1B4242 ;
+
+}
